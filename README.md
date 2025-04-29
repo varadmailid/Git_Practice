@@ -1,1 +1,1 @@
-# Git_Practice
+This is my practice repository for git
