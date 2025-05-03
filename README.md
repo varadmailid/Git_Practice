@@ -1,1 +1,1 @@
-This is my practice repository for git and my name is varad and I am a Btech Cse student
+This is my practice repository for git and my name is varad and I am a Btech Cse student.
